@@ -26,6 +26,19 @@ I then made a start on the process of transferring my design into the schematic 
 
 <img width="1767" height="537" alt="Screenshot 2026-08-04 203545" src="https://github.com/user-attachments/assets/d4c480d3-6902-4488-9d58-292097f35a89" />
 
-
+And i wired the pi:  
 
 <img width="580" height="688" alt="image" src="https://github.com/user-attachments/assets/036be638-f46f-4eed-9229-e70d7bdb0ffa" />
+
+Then i found a problem with the wiring of each sweich and had to redo it to find the problems.
+
+<img width="360" height="197" alt="image" src="https://github.com/user-attachments/assets/83908ee4-731f-4781-9d0d-299f92ee5e6a" />
+
+ After fixing this i ran eec and got 27 errors, which consited mainly of uncorrected wires.This step was very tedious to fix all the errors systemaltically, but i completed it in the end:
+ <img width="1036" height="1062" alt="Screenshot 2026-08-05 194456" src="https://github.com/user-attachments/assets/c9597d30-ecb7-4cc6-87f7-351c16a41394" />
+
+## Section 3(1 hour)
+After this I started aranging it on the pcb editor,howvever I got an error at first due to me opening the file in the wrong way:
+<img width="1917" height="1078" alt="Screenshot 2026-08-12 084805" src="https://github.com/user-attachments/assets/13489afd-f9e6-4769-8b55-223147decac9" />
+After fixing this i continued arranging the pcb
+<img width="203" height="142" alt="Screenshot 2026-08-05 060318" src="https://github.com/user-attachments/assets/a2393825-3b2f-4336-8d30-13b347c00b19" />
