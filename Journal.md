@@ -51,12 +51,11 @@ This turne out to be because in the very first switch i made i accidentally put 
 
 Finally i got it in rows but still there were too many keys if i wanted to have keys that werent 1 u. howvere i ignored this completely and continued.. which was a mistake. 
 ## Section 4: Layout Math & Routing (9 hrs) i took a loooooong time
-I am still working on getting the layout perfectly aligned. Placing the switches on the 19.05mm grid takes a lot of fiddling. I kept messing up the stagger by trying to drag the whole row, which ruined the right edge alignment. I eventually realized the trick is to just use the wide keys on the left (like 1.5u Tab and 1.75u Caps) to push the letters over. I used the Move Exactly tool to get the math perfect so both the left and right edges are completely straight. 
+I am still working on getting the layout perfectly aligned. Placing the switches on the 19.05mm grid takes a lot of fiddling. I kept messing up the stagger by trying to drag the whole row, which ruined the right edge alignment thing and the grid that i used to place the switches also messed me up a lot. I eventually realized the trick is to just use the wide keys on the left (like 1.5u Tab and 1.75u Caps) to push the letters overso it looks good I used the move xactly tool to get the math perfect so both the left and right edges are completely straight, as the keycap set which i wanted already had the ssugestion 
 
-[Insert screenshot of switches laid out on grid here]
 
-I figured out how to do the wide keys (like the 2u Backspace and 6.25u Spacebar) by just centering a 1u switch and leaving a gap for the stabilizers. I also caught a massive mistake. I almost forgot the Up arrow key. I had to shrink the Right Shift down to 1.75u to fit it in.
 
+I figured out how to do the wide keys (like the 2u Backspace and 6.25u Spacebar) by just centering a 1u switch and leaving a gap for the stabilizers. I also caught a massive mistake, i had not planned
 [Insert screenshot of stabilizers placed here]
 <img width="519" height="308" alt="Screenshot 2026-08-23 182820" src="https://github.com/user-attachments/assets/8e9c260f-5432-4f57-bff5-11ab8aa253c9" />
 
