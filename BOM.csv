@@ -1,9 +1,9 @@
 Part Name,Quantity,Link,Variant/Color,Price (GBP),Price (USD)
-JLCPCB PCB Manufacturing & Shipping,1,https://jlcpcb.com/,White PCB,£29.00,$36.00
-0.91 inch OLED Screen,1,https://www.aliexpress.com/item/1005008640132638.html,,£3.00,$3.00
-Outemu Switches,70,https://www.aliexpress.com/item/1005002378701948.html,Orange,£12.00,$15.00
-Raspberry Pi Pico,1,https://www.aliexpress.com/item/1005007525241877.html,Pico Type-C 1pc,£3.00,$3.00
-1N4148 Diodes,70,https://www.aliexpress.com/item/4000142272546.html,,£2.00,$2.00
-Custom Keycaps,1,https://www.aliexpress.com/item/1005004613625285.html,HLB 143,£19.00,$24.00
-PCB Mount Stabilizers,1 set,PASTE_STAB_LINK_HERE,,£15.00,$18.00
-TOTAL,,,,£83.00,$101.00
+JLCPCB PCB Manufacturing & Shipping,1,https://jlcpcb.com/,White PCB,£29.00,$40.00
+0.91 inch OLED Screen,1,https://www.aliexpress.com/item/1005008640132638.html,,£3.00,$5.00
+Tactile Switches,2 sets,https://www.aliexpress.com/item/1005006382591392.html,,£22.00,$28.00
+Raspberry Pi Pico,1,https://www.aliexpress.com/item/1005007525241877.html,Pico Type-C 1pc,£3.00,$5.00
+1N4148 Diodes,70,https://www.aliexpress.com/item/4000142272546.html,,£2.00,$4.00
+Custom Keycaps,1,https://www.aliexpress.com/item/1005004613625285.html,HLB 143,£19.00,$25.00
+White Stabilizers,1 set,https://www.aliexpress.com/item/1005001840872635.html,White 7x2u 1x6.25u,£8.00,$12.00
+TOTAL,,,,£86.00,$119.00
