@@ -99,3 +99,12 @@ my design:
 
 ## Section 6: Silkscreens
 For my silkscreens I decided to try to make the board really good as the JLCPCB company has a minimum order of 5. One of my favorite shows is Star Wars so I added a rebel logo and an imperial one on the opposite sides. Also I put a simple logo on with my initials in it.
+heres my logo:<img width="802" height="746" alt="Screenshot 2026-08-28 155328" src="https://github.com/user-attachments/assets/01b0adb8-def9-40b6-825c-210fb06c7cca" />
+
+And the silkscreen
+<img width="1155" height="665" alt="Screenshot 2026-08-28 160851" src="https://github.com/user-attachments/assets/8d4c0bd3-17e0-4b76-b6b9-d4bcf2b59831" />
+after this i put it into jcpcb and played around with the settings until  i was happy:
+<img width="1823" height="972" alt="Screenshot 2026-08-28 174512" src="https://github.com/user-attachments/assets/b1a3935e-afaa-4580-b565-bc42df9cb9de" />
+
+and the 3d editor was cool
+<img width="982" height="645" alt="Screenshot 2026-08-28 184101" src="https://github.com/user-attachments/assets/fb7ba4e8-4cb1-4c5d-9a9d-f589929c8f0f" />
