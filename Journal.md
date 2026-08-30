@@ -1,6 +1,7 @@
 # This is my keep journal of the development and learning process (hopefully learning... we will see!)
-# TOTAL OF 23 hours.. i didnt make the full day....
-## Section 1 (2hrs)
+# TOTAL OF 27.5 hours.. I made it past a full day!
+
+## Section 1 (2hrs 15 mins)
 During this time I read through all the docs and planned my board. 
 
 My initial designs are a 65 percent layout, with the Pi on the top left and an OLED screen on the top right:
@@ -13,9 +14,9 @@ Matrix-sketch:
 ![Screenshot 2026-08-04 123416](https://github.com/user-attachments/assets/f6d8d2ec-7280-4650-963e-980e08ca5451)
 
 
-## Section 2 (2 hours) - the funnest part!
-I updated my sketch to include better use of space and also to add macropad-style multi-function keys and volume buttons (I'm not going to include a rotary encoder):
-I  then did a lot of research about mechanical keyboards, pcb design and how to make different keyboards sound different.
+## Section 2 (2 hours 30 mins) - the funnest part!
+I updated my sketch to include better use of space and also to add macropad-style multi-function keys and volume buttons (I'm not going to include a rotary encoder). I then did a lot of research about mechanical keyboards, PCB design and how to make different keyboards sound different.
+
 <img width="1752" height="788" alt="Screenshot 2026-08-04 202955" src="https://github.com/user-attachments/assets/ab6a711d-363e-403d-9203-d4a226c20bd5" />
 
 I then made a start on the process of transferring my design into the schematic editor with some mistakes that I found out later with numbering the rows and columns of the matrix:
@@ -36,7 +37,7 @@ After fixing this I ran ERC and got 27 errors, which consisted mainly of unconne
 
 <img width="1036" height="1062" alt="Screenshot 2026-08-05 194456" src="https://github.com/user-attachments/assets/c9597d30-ecb7-4cc6-87f7-351c16a41394" />
 
-## Section 3 (4 hours) - a lot of mistakes
+## Section 3 (3.5 hours for the 1st arranging and bug fixing, 1.5 hours for the fixed run) - a lot of mistakes
 After this I started arranging it on the PCB editor, however I got an error at first due to me opening the file in the wrong way:
 
 <img width="1917" height="1078" alt="Screenshot 2026-08-12 084805" src="https://github.com/user-attachments/assets/13489afd-f9e6-4769-8b55-223147decac9" />
@@ -51,7 +52,7 @@ This turned out to be because in the very first switch I made, I accidentally pu
 
 Finally I got it in rows but still there were too many keys if I wanted to have keys that weren't 1u. However I ignored this completely and continued.. which was a mistake. 
 
-## Section 4: Layout Math & Routing (9 hrs) - I took a loooooong time
+## Section 4: Layout Math & Routing (8 hrs approx for the keys, 1 hr for the OLED and fixes and fill) - I took a loooooong time
 I am still working on getting the layout perfectly aligned. Placing the switches on the 19.05mm grid takes a lot of fiddling. I kept messing up the stagger by trying to drag the whole row, which ruined the right edge alignment thing and the grid that I used to place the switches also messed me up a lot. I eventually realized the trick is to just use the wide keys on the left (like 1.5u Tab and 1.75u Caps) to push the letters over so it looks good. I used the Move Exactly tool to get the math perfect so both the left and right edges are completely straight, as the keycap set which I wanted already had the suggestion.
 
 I figured out how to do the wide keys (like the 2u Backspace and 6.25u Spacebar) by just centering a 1u switch and leaving a gap for the stabilizers. I also caught a massive mistake, I had not planned
@@ -82,10 +83,10 @@ Routing the copper traces was a nightmare. I routed the columns on the front lay
 
 I decided to go with a sandwich mount for the case, so I did not bother putting mounting holes on the board. The screws will just pass through the 5mm border around the edge. I exported the board as a STEP file and I am now moving over to Fusion 360 to start designing the 3D case. 
 
-## Section 5: Case Design (5hrs)
+## Section 5: Case Design (1 hour for first run, 5 hrs for second run)
 To do the case design I then opened up the online software Onshape. At first I played around a bit with the tools as I had never used the software before. After this I designed a simple 3D tray with a solid base which would act as my case. I then decided that if I printed a plate it might become stressed and crack over time so I changed my PCB to have mounting holes, and fixed some errors in the PCB at the same time. I then had to rebuild my case again with the new dimensions, which took a while, as the Onshape server kept lagging. Using the placement of the holes on the PCB I constructed several towers for the PCB to be able to screw into. After this I added fillets to all the corners to make it look better and then I used the assembly tab to make sure everything fit, which it did perfectly. Finally I used the split tool to split it in half. Overall I'm happy with my case design, but I think that it could be more detailed.
 
-ZERO ERRORS!!!
+ZERO ERRORS!!!::::
 
 <img width="552" height="660" alt="Screenshot 2026-08-28 140950" src="https://github.com/user-attachments/assets/41e6952e-6ebc-4a4f-a4d7-ead10c901f87" />
 
@@ -97,14 +98,19 @@ my design:
 
 <img width="1902" height="927" alt="Screenshot 2026-08-27 105413" src="https://github.com/user-attachments/assets/3e11acfb-d6c4-45be-ad58-7a6a08c9767d" />
 
-## Section 6: Silkscreens9(1 HOURS)
+## Section 6: Silkscreens (1 hour for choosing, 1.5 for putting it together and designing my logo)
 For my silkscreens I decided to try to make the board really good as the JLCPCB company has a minimum order of 5. One of my favorite shows is Star Wars so I added a rebel logo and an imperial one on the opposite sides. Also I put a simple logo on with my initials in it.
-heres my logo:<img width="802" height="746" alt="Screenshot 2026-08-28 155328" src="https://github.com/user-attachments/assets/01b0adb8-def9-40b6-825c-210fb06c7cca" />
+Here's my logo:
+<img width="802" height="746" alt="Screenshot 2026-08-28 155328" src="https://github.com/user-attachments/assets/01b0adb8-def9-40b6-825c-210fb06c7cca" />
 
-And the silkscreen
+And the silkscreen:
 <img width="1155" height="665" alt="Screenshot 2026-08-28 160851" src="https://github.com/user-attachments/assets/8d4c0bd3-17e0-4b76-b6b9-d4bcf2b59831" />
-after this i put it into jcpcb and played around with the settings until  i was happy:
+
+After this I put it into JLCPCB and played around with the settings until I was happy:
 <img width="1823" height="972" alt="Screenshot 2026-08-28 174512" src="https://github.com/user-attachments/assets/b1a3935e-afaa-4580-b565-bc42df9cb9de" />
 
-and the 3d editor was cool
+And the 3D editor was cool:
 <img width="982" height="645" alt="Screenshot 2026-08-28 184101" src="https://github.com/user-attachments/assets/fb7ba4e8-4cb1-4c5d-9a9d-f589929c8f0f" />
+
+## Section 7: BOM & Submission
+Finished compiling my Bill of Materials (BOM) and getting all my files exported and zipped. Ready to submit to Hack Club!
