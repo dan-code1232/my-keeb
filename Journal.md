@@ -1,5 +1,5 @@
-# This is my keep journal of the development and learning process (hopefully learning... we will see!)
-# TOTAL OF 27.5 hours.. I made it past a full day!
+# This is my keep journal of the development and learning process
+# TOTAL OF 32 hours I hope it was worth it...
 
 ## Section 1 (2hrs 15 mins)
 During this time I read through all the docs and planned my board. 
@@ -121,3 +121,4 @@ finished compiling my  bom and getting all my files exported and zipped and ever
 <img width="1908" height="957" alt="Screenshot 2026-08-31 073302" src="https://github.com/user-attachments/assets/e0d616b2-5f70-4e87-803c-bf70b292a573" />
 
 THE END
+TOTAL OF 32 hours
