@@ -111,6 +111,13 @@ After this I put it into JLCPCB and played around with the settings until I was 
 
 And the 3D editor was cool:
 <img width="982" height="645" alt="Screenshot 2026-08-28 184101" src="https://github.com/user-attachments/assets/fb7ba4e8-4cb1-4c5d-9a9d-f589929c8f0f" />
+##Section 7:Firmware(45 mins):
+I was scared at first by writing all the firmware but i found a template in RMK and copied it whilest changing everything like the rows and collms and keymap etc,which took less time then i was expecting.
+## Section 8: BOM & Submission(4 hours approx)
+finished compiling my  bom and getting all my files exported and zipped and everything.I spent a long time choosing parts and compatibilitu checking between them and making sure i had the cheapest yet best deals and good reliable parts. Im finally done!
+<img width="1912" height="956" alt="Screenshot 2026-08-31 073237" src="https://github.com/user-attachments/assets/743c9b87-08b8-400c-adfc-083861562101" />
+<img width="512" height="533" alt="Screenshot 2026-08-24 091937" src="https://github.com/user-attachments/assets/ab69f9df-6ac4-4334-9bfa-18d9f42100db" />
+<img width="500" height="512" alt="Screenshot 2026-08-24 101943" src="https://github.com/user-attachments/assets/51d60de9-d64c-41c3-8ce4-9659095d2e18" />
+<img width="1908" height="957" alt="Screenshot 2026-08-31 073302" src="https://github.com/user-attachments/assets/e0d616b2-5f70-4e87-803c-bf70b292a573" />
 
-## Section 7: BOM & Submission
-Finished compiling my Bill of Materials (BOM) and getting all my files exported and zipped. Ready to submit to Hack Club!
+THE END
