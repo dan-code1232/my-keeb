@@ -12,3 +12,4 @@ This YSWS was my first hack club project. I learnt about hackclub from online an
 ##AND THE FINAL RENDER::
 
 https://cad.onshape.com/documents/12cb8831dddddaf00ecb411f/w/8d695212fe769afe4ca3f804/e/d073d4997be6d06dd7fe0af7?renderMode=0&uiState=6adc6b124070a14a067048c0
+<img width="1567" height="778" alt="Screenshot 2026-10-29 072446" src="https://github.com/user-attachments/assets/1b07445a-60db-4d49-921a-622ea5cdeb25" />
